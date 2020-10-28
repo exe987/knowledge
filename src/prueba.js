@@ -14,6 +14,7 @@ const Prueba = () => {
         <div>
           <h1>{title}</h1>
     <p>{article}</p>
+    <p>gatos bu</p>
         </div>
      );
 }
