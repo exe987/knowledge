@@ -13,7 +13,7 @@ const Prueba = () => {
     return ( 
         <div>
           <h1>{title}</h1>
-    <p>{article}</p>
+    <p>{article} PEEROS BU MILODORS BON APETIT</p>
         </div>
      );
 }
