@@ -12,9 +12,7 @@ const Prueba = () => {
 
     return ( 
         <div>
-          <h1>{title}</h1>
-    <p>{article} PEEROS BU MILODORS BON APETIT</p>
-        </div>
+          aaaaaaa       </div>
      );
 }
  
